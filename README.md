@@ -1,4 +1,7 @@
-![Banner Kah](./bannerkalita.png)
+<p align="center">
+  <img src="./bannerkalita.png" alt="Banner Kah" />
+</p>
+
 <h1 align="center">Olá, eu sou a Kálita</h1>
 <p align="center">Analista de Dados em formação | Apaixonada por tecnologia, decisões assertivas, e transformação através do conhecimento</p>
 
