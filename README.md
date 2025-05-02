@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannerkalita (1).png" alt="bannerkalita" width="500" eight="100"/>
+  <img src="./bannerkalita (1).png" alt="bannerkalita" width="500" height="100"/>
 </p>
 
 <h1 align="center">Olá, eu sou a Kálita</h1>
