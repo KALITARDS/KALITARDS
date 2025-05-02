@@ -21,8 +21,9 @@
 ---
 
 📬 **Onde me encontrar:**  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1lita-rodrigues-38a124199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 📧 kalita.rodriguesdf@gmail.com 
 
-🫶 *"Não pare até se orgulhar da história que está construindo."*  
+ *"Não pare até se orgulhar da história que está construindo."*  
