@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Kálita</h1>
+<p align="center">Analista de Dados em formação | Apaixonada por tecnologia, decisões acertivas, e transformação através do conhecimento</p>
 
-<!--
-**KALITARDS/KALITARDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 **Objetivo:** Transbordar excelência na área de Análise de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Estudando atualmente:**  
+- Power BI  
+- Python 
+- SQL para Análise de Dados  
+- Machine Learning e Inteligência Artificial  
+- Ciência de Dados pela Data Science Academy
+
+🛠️ **Ferramentas que estou dominando:**  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+📬 **Onde me encontrar:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
+📧 kalita.rodriguesdf@gmail.com 
+
+🫶 *"Não pare até se orgulhar da história que está construindo."*  
