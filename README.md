@@ -12,7 +12,7 @@
 - Machine Learning e Inteligência Artificial  
 - Ciência de Dados pela Data Science Academy
 
-🛠️ **Ferramentas que estou dominando:**  
+🛠️ **Ferramentas:**  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
