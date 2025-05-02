@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Kálita</h1>
-<p align="center">Analista de Dados em formação | Apaixonada por tecnologia, decisões acertivas, e transformação através do conhecimento</p>
+<p align="center">Analista de Dados em formação | Apaixonada por tecnologia, decisões assertivas, e transformação através do conhecimento</p>
 
 ---
 
