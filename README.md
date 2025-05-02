@@ -21,7 +21,7 @@
 ---
 
 📬 **Onde me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
+[![LinkedIn](www.linkedin.com/in/kálita-rodrigues-38a124199)  
 📧 kalita.rodriguesdf@gmail.com 
 
 🫶 *"Não pare até se orgulhar da história que está construindo."*  
